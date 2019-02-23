@@ -1,0 +1,14 @@
+.personal{
+	text-align: center;
+}
+.personalmanage{
+	line-height: 80px;
+	font-size:15px;
+	font-weight: 800px;
+}
+.personalWidth{
+	font-size:20px;
+	width:280px;
+	height: 40px;
+	position: relative;
+}
